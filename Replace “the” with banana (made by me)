@@ -1,0 +1,1 @@
+javascript:(function()%7Bdocument.body.innerHTML%20=%20document.body.innerHTML.replace(/the/g,%20%22bannana%22).replace(/The/g,%20%22bannana%22);%7D)();
