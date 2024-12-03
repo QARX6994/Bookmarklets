@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20js=document.body.appendChild(document.createElement(%22script%22));js.onerror=function()%7Balert(%22Sorry,%20the%20script%20could%20not%20be%20loaded.%22)%7D;js.src=%22https://rawgit.com/Krazete/bookmarklets/master/lupire.js%22%7D)();
