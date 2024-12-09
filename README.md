@@ -5,3 +5,6 @@ They are all js. Feel free to suggest a bookmarklet, ill probably add it if it w
 
 
 star if you like it! Please?
+
+
+credits/where is got the bookmarklets: the topic "bookmarklets" or "bookmarklet" on GitHub. (I cant remember where I got all of them :P)
